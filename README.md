@@ -6,7 +6,7 @@
 - 🤔 Estou procurando me desenvolver mais no mundo da informação.
 - ⚡ Sou um extremo entusiasta e curioso em tecnologia e desenvolvimento de software.
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/ofernandobarbosa">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ofernandobarbosa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_radius=35"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofernandobarbosa&layout=compact&langs_count=7&theme=gruvbox&border_radius=20"/>
