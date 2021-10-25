@@ -1,5 +1,5 @@
-E aiii, tudo certo?! 😊
-Meu nome é Fernando Barbosa!
+<p>E aiii, tudo certo?! 😊</p>
+<p>Meu nome é Fernando Barbosa!</p>
 
 - 🔭 Estou em transição de carreira, de Engenharia Mecânica para Engenharia de Software
 - 🌱 No momento estudando Python e Data Science.
