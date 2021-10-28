@@ -1,9 +1,9 @@
 <p>E aiii, tudo certo?! 😊</p>
 <p>Meu nome é Fernando Barbosa!</p>
 
-- 🔭 Estou em transição de carreira, de Engenharia Mecânica para Engenharia de Software
+- 🔭 Me encontrei na programação e estou em transição de carreira, de Engenharia Mecânica para Engenharia de Software.
 - 🌱 No momento estudando Python e Data Science.
-- 🤔 Estou procurando me desenvolver mais no mundo da informação.
+- 🤔 Estou procurando me desenvolver mais e melhor no mundo do desenvolvimento.
 - ⚡ Sou um extremo entusiasta e curioso em tecnologia e desenvolvimento de software.
 
 <div align="center">
