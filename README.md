@@ -26,7 +26,7 @@
   
   
 <div align="center"> 
-  <a href="https://instagram.com/ofernando.barbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"></a>
+  <a href="https://instagram.com/ofernando.barbosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"></a>
   <a href="https://ofernandobarbosa.notion.site/Portfolio-96ec98cbe2ec4234b1311388582b5783" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQltJMVxzz7pYAwuVPvSaYysiqO7fr2Ssd3IS_XJ95P_LpFXxy-jGxFi680YV_1-dHtbxs&usqp=CAU" height="30"></a>
   <a href="mailto:ofernandobarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
   <a href="https://www.linkedin.com/in/ofernandobarbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
