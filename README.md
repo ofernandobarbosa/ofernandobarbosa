@@ -3,7 +3,7 @@
 </p>
 
 - 🔭 Me encontrei na programação e estou em transição de carreira, da área de Engenharia Mecânica para Engenharia de Software.
-- 🌱 No momento estudando Python e Web Development.
+- 🌱 No momento estudando Python direcionado ao Backend, Web Development e Cloud AWS.
 - 🤔 Estou procurando me aprimorar mais e melhor no mundo do desenvolvimento.
 - ⚡ Sou um extremo entusiasta e curioso em tecnologia e desenvolvimento de software focado em resolver problemas.
 
@@ -21,7 +21,6 @@
   <img align="center" alt="Fernando-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Fernando-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Fernando-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Fernando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <p>
