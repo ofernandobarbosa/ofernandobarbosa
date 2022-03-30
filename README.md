@@ -3,7 +3,7 @@
 </p>
 
 - 🔭 Me encontrei na programação e estou em transição de carreira, da área de Engenharia Mecânica para Engenharia de Software.
-- 🌱 No momento estudando Python direcionado ao Backend, Web Development e Cloud AWS.
+- 🌱 No momento estudando Python e Java direcionado ao Backend, Web Development e Cloud AWS.
 - 🤔 Estou procurando me aprimorar mais e melhor no mundo do desenvolvimento.
 - ⚡ Sou um extremo entusiasta e curioso em tecnologia e desenvolvimento de software focado em resolver problemas.
 
