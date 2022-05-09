@@ -8,17 +8,17 @@
 - 🤔 Estou procurando me aprimorar mais e melhor no mundo do desenvolvimento.
 - ⚡ Sou um extremo entusiasta e curioso em tecnologia e desenvolvimento de software focado em resolver problemas.
 
+###📃[Currículo] (https://ofernandobarbosa.github.io/Curriculo/)
+
 <div align="center">
   <a href="https://github.com/ofernandobarbosa">
   <img height="140em" src="https://github-readme-stats-eosin-mu.vercel.app/api?username=ofernandobarbosa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_radius=35"/>
   <img height="140em" src="https://github-readme-stats-eosin-mu.vercel.app/api/top-langs/?username=ofernandobarbosa&layout=compact&langs_count=10&theme=gruvbox&border_radius=20"/>
 </div>
   
-  
 <div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fernando-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="Fernando-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Fernando-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Fernando-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
