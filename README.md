@@ -3,14 +3,15 @@
 </p>
 
 - 🔭 Me encontrei na programação e estou em transição de carreira, da área de Engenharia Mecânica para Engenharia de Software.
-- 🌱 No momento estudando Python e Java direcionado ao Backend, Web Development e Cloud AWS.
+- 💻 Estudante de TADS e Engenharia de Software
+- 🌱 No momento estudando Python e Java direcionado ao Backend e Cloud AWS.
 - 🤔 Estou procurando me aprimorar mais e melhor no mundo do desenvolvimento.
 - ⚡ Sou um extremo entusiasta e curioso em tecnologia e desenvolvimento de software focado em resolver problemas.
 
 <div align="center">
   <a href="https://github.com/ofernandobarbosa">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ofernandobarbosa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_radius=35"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofernandobarbosa&layout=compact&langs_count=7&theme=gruvbox&border_radius=20"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofernandobarbosa&layout=compact&langs_count=7&theme=gruvbox&border_radius=20&include_all_commits=true&count_private=true"/>
 </div>
   
   
