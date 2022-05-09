@@ -8,7 +8,7 @@
 - 🤔 Estou procurando me aprimorar mais e melhor no mundo do desenvolvimento.
 - ⚡ Sou um extremo entusiasta e curioso em tecnologia e desenvolvimento de software focado em resolver problemas.
 
-###📃[Currículo] (https://ofernandobarbosa.github.io/Curriculo/)
+### 📃[Currículo](https://ofernandobarbosa.github.io/Curriculo/)
 
 <div align="center">
   <a href="https://github.com/ofernandobarbosa">
