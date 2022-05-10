@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/ofernandobarbosa">
   <img height="140em" src="https://github-readme-stats-eosin-mu.vercel.app/api?username=ofernandobarbosa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_radius=35"/>
-  <img height="140em" src="https://github-readme-stats-eosin-mu.vercel.app/api/top-langs/?username=ofernandobarbosa&layout=compact&langs_count=100&theme=gruvbox&border_radius=20"/>
+  <img height="140em" src="https://github-readme-stats-eosin-mu.vercel.app/api/top-langs/?username=ofernandobarbosa&layout=compact&langs_count=7&theme=gruvbox&border_radius=20"/>
 </div>
   
 <div style="display: inline_block" align="center" ><br>
