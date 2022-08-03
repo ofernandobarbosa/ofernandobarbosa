@@ -18,7 +18,7 @@
  <p>
  </div>
  
- ### 📃[Currículo](https://ofernandobarbosa.github.io/Curriculo/)
+ ### 📃[Currículo](https://ofernandobarbosa.github.io/curriculo/)
 
  <details>
     <summary>:zap: Github Stats</summary>
