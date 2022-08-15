@@ -17,18 +17,7 @@
   <img align="center" alt="Fernando-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
  <p>
  </div>
- 
- ### 📃[Currículo](https://ofernandobarbosa.github.io/curriculo/)
 
- <details>
-    <summary>:zap: Github Stats</summary>
-    <br>
-    <div align="center"><a href="https://github.com/ofernandobarbosa/">
-        <img height="160rem" src="https://github-readme-stats-eosin-mu.vercel.app/api?username=ofernandobarbosa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_radius=35"/>
-        <img height="160rem" src="https://github-readme-stats-eosin-mu.vercel.app/api/top-langs/?username=ofernandobarbosa&layout=compact&langs_count=8&theme=gruvbox&border_radius=20"/>
-        </a>
-    </div>
-</details>
 
 <br><br>
 <div align="center"> 
