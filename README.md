@@ -3,7 +3,7 @@
 
 - 📫 Como me encontrar **ofernandobarbosa@gmail.com**
 
-- 📄 [Experiências](https://drive.google.com/file/d/18gwM7DuKxGCELfDIZxJUI7nlut55cTNr/view?usp=sharing)
+- 📄 [Experiências](https://drive.google.com/file/d/1-EneGVyJZ2p1X_Y5GbXZzUcB-Mjh40bS/view?usp=share_link)
 
 - ⚡ **Me encontrei na programação e migrei de área da Engenharia Mecânica para Engenharia de Software.**
 
