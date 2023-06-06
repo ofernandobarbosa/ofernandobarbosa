@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou o Fernando Barbosa</h1>
-<h3 align="center">Sou um extremo entusiasta e curioso em tecnologia e desenvolvimento de software focado em resolver problemas.</h3>
+<h3 align="center">Sou um extremo entusiasta e curioso em tecnologias e desenvolvimento de software focado em resolver problemas.</h3>
 
 - 📫 Como me encontrar **ofernandobarbosa@gmail.com**
 
-- 📄 [Experiências](https://drive.google.com/file/d/1-EneGVyJZ2p1X_Y5GbXZzUcB-Mjh40bS/view?usp=share_link)
+- 📄 [Experiências](https://docs.google.com/document/d/1mYJ63DOf4CMKiZECM_GUiQL0xAA17mDu/edit?usp=sharing&ouid=118429902509350121507&rtpof=true&sd=true)
 
 - 💻 **Estudante de TADS e Engenharia de Software**
 
